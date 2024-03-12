@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\NCC_Lab_Krisha\bin\Debug\net8.0\NCC_Lab_Krisha.exe
+C:\Users\DELL\source\repos\NCC_Lab_Krisha\bin\Debug\net8.0\NCC_Lab_Krisha.deps.json
+C:\Users\DELL\source\repos\NCC_Lab_Krisha\bin\Debug\net8.0\NCC_Lab_Krisha.runtimeconfig.json
+C:\Users\DELL\source\repos\NCC_Lab_Krisha\bin\Debug\net8.0\NCC_Lab_Krisha.dll
+C:\Users\DELL\source\repos\NCC_Lab_Krisha\bin\Debug\net8.0\NCC_Lab_Krisha.pdb
+C:\Users\DELL\source\repos\NCC_Lab_Krisha\obj\Debug\net8.0\NCC_Lab_Krisha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\NCC_Lab_Krisha\obj\Debug\net8.0\NCC_Lab_Krisha.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\NCC_Lab_Krisha\obj\Debug\net8.0\NCC_Lab_Krisha.AssemblyInfo.cs
+C:\Users\DELL\source\repos\NCC_Lab_Krisha\obj\Debug\net8.0\NCC_Lab_Krisha.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\NCC_Lab_Krisha\obj\Debug\net8.0\NCC_Lab_Krisha.dll
+C:\Users\DELL\source\repos\NCC_Lab_Krisha\obj\Debug\net8.0\refint\NCC_Lab_Krisha.dll
+C:\Users\DELL\source\repos\NCC_Lab_Krisha\obj\Debug\net8.0\NCC_Lab_Krisha.pdb
+C:\Users\DELL\source\repos\NCC_Lab_Krisha\obj\Debug\net8.0\NCC_Lab_Krisha.genruntimeconfig.cache
+C:\Users\DELL\source\repos\NCC_Lab_Krisha\obj\Debug\net8.0\ref\NCC_Lab_Krisha.dll
