@@ -16,7 +16,6 @@ namespace NCC_Lab_Krisha
             Console.WriteLine("\teating bread...");
         }
     }
-
     class ClassMethod
     {
         public static void Main()

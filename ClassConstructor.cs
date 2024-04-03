@@ -31,7 +31,7 @@ namespace NCC_Lab_Krisha
         {
             // Create an instance of the derived class (Dog)
             Dogs myDog = new Dogs("Canine", "Labrador");
-            Console.WriteLine("\nLab No.: 5(c)\tName: Krisha Dhakal\tRoll No: 8/26445");
+            Console.WriteLine("\nLab No.: 5(c)\tName: Rubi Poudel\tRoll No: 19");
         }
     }
 }
